@@ -59,7 +59,10 @@ datagen = ImageDataGenerator(
 
 </center>
 
-`./dataset/dataset.zip` 파일에 148,355장의 이미지 데이터(96\*96)가 압축되어 들어있으며, 직접 [다운로드](https://github.com/kitae0522/Facial-Expression-Recognition/raw/main/dataset/dataset.zip)하실 수 있고, wget를 이용해서 다운로드 하실 수 있습니다.
+> 251125 업데이트
+> 현재 해당 Repository 데이터셋은 공유하지 않고 있습니다. [이슈](https://github.com/kitae0522/Facial-Expression-Recognition/issues/3)를 참고해주시기 바랍니다.
+
+~`./dataset/dataset.zip` 파일에 148,355장의 이미지 데이터(96\*96)가 압축되어 들어있으며, 직접 [다운로드](https://github.com/kitae0522/Facial-Expression-Recognition/raw/main/dataset/dataset.zip)하실 수 있고, wget를 이용해서 다운로드 하실 수 있습니다.~
 
 ```shell
 $ wget -O dataset.zip https://github.com/kitae0522/Facial-Expression-Recognition/raw/main/dataset/dataset.zip
